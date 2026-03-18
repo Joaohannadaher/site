@@ -1,0 +1,5 @@
+# Claude Code (configurações locais com caminhos do computador)
+.claude/
+
+# Pasta de imagens antigas (não usada pelo site atual)
+images/
